@@ -1,0 +1,3 @@
+Evaluated responses: 10
+Hallucination rate: 0.0%
+Average overall quality: 4.80/5
